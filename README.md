@@ -3,19 +3,19 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hmzweb&label=Profile%20views&color=0e75b6&style=flat" alt="hmzweb" /> </p>
 
-- 🔭 I’m currently working on [Personal Website](https://github.com/HmzWeb/HmzWeb.github.io)
+- 🔭 I’m currently working on [My Personal Website](https://github.com/HmzWeb/HmzWeb.github.io)
 
 - 🌱 I’m currently learning **HTML / JavaScript / Python**
 
 - I'm Student at **Marsaa Secondary School**
 
-- 👨‍💻 All of my projects are available at [https://github.com/HamzaHassan2](https://github.com/HamzaHassan2)
+- 👨‍💻 All of my projects are available at [https://github.com/HmzWeb](https://github.com/HmzWeb)
 
 - ⚡ Fun fact [1+1=2](1+1=2)
 
 - 📫 How to reach me **hamzahassan7711@gmail.com**
 
-- 📄 Know about my experiences [https://Hamzahassan2.github.io](https://hamzahassan2.github.io)
+- 📄 Know about my experiences [https://HmzWeb.github.io](https://HmzWeb.github.io)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -29,4 +29,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hamzahassan2&show_icons=true&locale=en&layout=compact" alt="hamzahassan2" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hamzahassan2&show_icons=true&locale=en" alt="hamzahassan2" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hamzahassan2&show_icons=true&locale=en" alt="HmzWeb" /></p>
