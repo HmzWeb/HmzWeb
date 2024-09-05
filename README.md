@@ -9,7 +9,7 @@
 
 - I'm Student at **Marsaa Secondary School**
 
-- 👨‍💻 All of my projects are available at [https://github.com/HmzWeb](https://github.com/HmzWeb)
+- 👨‍💻 All of my projects are available at [https://github.com/HamzaHassan2](https://github.com/HamzaHassan2)
 
 - ⚡ Fun fact [1+1=2](1+1=2)
 
