@@ -13,11 +13,9 @@
 
 - ⚡ Fun fact [1+1=2](1+1=2)
 
-- 📫 How to reach me **hamzahassan8@outlook.com**
+- 📫 How to reach me **hamzahassan7711@gmail.com**
 
-- or **hamzahassan7711@gmail.com**
-
-- 📄 Know about my experiences [https://HmzWeb.github.io](https://HmzWeb.github.io)
+- 📄 Know about my experiences [https://Hamzahassan2.github.io](https://hamzahassan2.github.io)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
