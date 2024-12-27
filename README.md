@@ -1,12 +1,8 @@
-<h1 align="center">Hi 👋, I'm Hamza Hassan</h1>
-<h3 align="center">I am a student and a technology enthusiast</h3>
-
+<h1 align="center">Hi 👋, I'm Hamza</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hmzweb&label=Profile%20views&color=0e75b6&style=flat" alt="hmzweb" /> </p>
 
-- 🔭 I’m currently working on [My Personal Website](https://github.com/HmzWeb/HmzWeb.github.io)
 
-- 📄 Know about my experiences [https://HmzWeb.github.io](https://HmzWeb.github.io)
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+- 📄 Visit My Website for more info [https://HmzWeb.github.io](https://HmzWeb.github.io)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=HmzWeb&show_icons=true&locale=en&layout=compact" alt="HmzWeb" /></p>
 
